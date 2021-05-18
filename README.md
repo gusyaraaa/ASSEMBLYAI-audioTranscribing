@@ -8,4 +8,4 @@
     2. Добавить в него следующее:
         API_TOKEN = "Your API Key"
     3. Строку Your API Key нужно заменить на ключ API, полученный на сайте AssemblyAI.)
-5. Необходимые библиотеки нужно установить вручную(pip install streamlit, requests, python-dotenv)
+5. Необходимые библиотеки нужно установить вручную (pip install streamlit, requests, python-dotenv или pip install -r requirements.txt)
