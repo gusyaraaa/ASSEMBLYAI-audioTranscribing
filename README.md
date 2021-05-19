@@ -10,3 +10,5 @@
     3. Строку Your API Key нужно заменить на ключ API, полученный на сайте AssemblyAI.)
 5. Необходимые библиотеки нужно установить вручную (pip install streamlit, requests, python-dotenv или pip install -r requirements.txt)
 6. Запустить приложение (streamlit run main.py)
+
+Готовое приложение: https://share.streamlit.io/gusyaraaa/assemblyai-audiotranscribing/main/main.py
